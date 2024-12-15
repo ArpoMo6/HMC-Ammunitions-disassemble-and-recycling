@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>HMC Ammunitions disassemble and recycling</name>
+	<author>arpomo6</author>
+	<supportedVersions>
+		<li>1.4</li>
+		<li>1.5</li>
+	</supportedVersions>
+	<packageId>arpomo6.hmc.adr</packageId>
+	<description>
+(ENG)
+
+this mod do:
+- adds disassembly of ammunition, weapon components and turret crates to existing workbenches of the same name.
+
+(RUS)
+
+Этот мод:
+- добавляет разбор боеприпасов, оружейных компонентов и турельных деталей для существующих одноименных верстаков.
+	</description>
+	<modDependencies>
+	</modDependencies>
+	<loadBefore>
+		<li>experimental.optimizations</li>
+		<li>dubwise.dubsperformanceanalyzer.steam</li>
+		<li>DimonSever000.Wiki.Specific</li>
+		<li>mlie.wikirim</li>
+		<li>Taranchuk.PerformanceOptimizer</li>
+		<li>notooshabby.rocketman</li>
+		<li>Krkr.RocketMan</li>
+	</loadBefore>
+	<loadAfter>
+		<li>brrainz.harmony</li>
+		<li>Ludeon.RimWorld</li>
+		<li>bs.performance</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+		<li>UnlimitedHugs.HugsLib</li>
+		<li>CETeam.CombatExtended</li>
+		<li>skyarkhangel.HSK</li>
+		<li>chjees.androids</li>
+		<li>arpomo6.hmc.ussrwp</li>
+	</loadAfter>
+	<incompatibleWith>
+		<li>arpomo6.hmc.project</li>
+	</incompatibleWith>
+</ModMetaData>
